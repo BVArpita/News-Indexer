@@ -1,0 +1,12 @@
+
+FILEID:[Ljava.lang.String;@4d905742
+CATEGORY:[Ljava.lang.String;@3f50d5d6
+TITLE:[Ljava.lang.String;@5406f513
+PLACE:[Ljava.lang.String;@14c3dd7e
+NEWSDATE:[Ljava.lang.String;@470285d8
+CONTENT:[Ljava.lang.String;@76a14c53
+
+
+
+
+=====
