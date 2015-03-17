@@ -1,2 +1,2 @@
 # News-Indexer
-This is 2014 fall project for indexing documents which will be parsed and sent through various token filters.
+This is 2014 fall project for indexing documents(around 10,000 news articles) which will be parsed and sent through various token filters like removing stopwords, lowercasing the tokens, filtering the numbers, special characters and symbols. passing tokens through these filters , they will be indexed. Four indexes were created for this particular prject which are place index , author index , term index and category index for easy  and fast retrieval of words.
